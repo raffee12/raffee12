@@ -13,14 +13,14 @@
 
 ---
 
-## 👨‍💻 About Me
-> Passionate about building responsive, scalable, and user-friendly web apps.<br>
-> Currently pursuing a **BBA in Finance**, combining business insight with coding skills.<br>
+## 👨‍💻 About Me  
+> Passionate about building responsive, scalable, and user-friendly web apps.  
+> Currently pursuing a **BBA in Finance**, combining business insight with coding skills.  
 > Always eager to learn, contribute to open-source, and solve real-world problems through technology.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working On  
 - 🔭 Freelance projects on **Fiverr**  
 - 🌱 Exploring **Next.js** & server-side rendering  
 - 💻 Developing a fully responsive **Tourism Website**  
@@ -28,37 +28,46 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  
+<p align="center">
+  <!-- Frontend -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
 
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+  <!-- Backend -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📍 Contact Info
-| 📍 Location          | ✉️ Email                         | 📞 Phone          |
-| -------------------- | ------------------------------- | ----------------- |
-| Lalbagh, Dhaka, Bangladesh | [rafizarahad@gmail.com](mailto:rafizarahad@gmail.com) | +880 1320 678402  |
+## 📍 Contact Info  
+| Location                  | Email                               | Phone          |
+|---------------------------|-----------------------------------|----------------|
+| Lalbagh, Dhaka, Bangladesh| [rafizarahad@gmail.com](mailto:rafizarahad@gmail.com) | +880 1320 678402 |
 
 ---
 
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/raffee12)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafizaislam01/)  
+<p align="center">
+  <a href="https://github.com/raffee12" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rafizaislam01/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -80,4 +89,4 @@
 
 ---
 
-⭐ **Thanks for stopping by! Feel free to explore my repos and get in touch.**
+⭐ **Thanks for stopping by! Feel free to explore my repositories and get in touch.**
